@@ -11,7 +11,7 @@ Game from the Old-West!
 
 ## Screenshots
 - Play screen- Before Game Starts:
-<img src="https://github.com/namaste-code/java-android-BulletHell/blob/master/app/src/main/res/assets/BulletHell-Before.png" height="250">
+<img src="https://github.com/namaste-code/java-android-BulletHell/blob/master/app/src/main/assets/BulletHell-Before.png?raw=true" height="250">
 
 - Play screen- After Game Starts:
-<img src="https://github.com/namaste-code/java-android-BulletHell/blob/master/app/src/main/res/assets/BulletHell-After.png" height="250">
+<img src="https://github.com/namaste-code/java-android-BulletHell/blob/master/app/src/main/res/assets/BulletHell-After.png?raw=true" height="250">
